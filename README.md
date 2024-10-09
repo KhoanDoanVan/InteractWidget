@@ -14,3 +14,6 @@
 - Run the app then run the widget individual
 ![run the app](runTheApp.png)
 ![run the widget](runTheWidget.png)
+
+## Conclusion
+![result](result.png)
